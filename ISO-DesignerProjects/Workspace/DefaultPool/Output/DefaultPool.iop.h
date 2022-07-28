@@ -46,5 +46,13 @@
 #define OutputString_11016                11016
 #define OutputString_11017                11017
 #define OutputString_11018                11018
+#define OutputString_11019                11019
+#define OutputString_11020                11020
+#define OutputNumber_12000                12000
+#define OutputNumber_12001                12001
+#define Line_13000                        13000
+#define Line_13001                        13001
 #define FontAttributes_23000              23000
 #define FontAttributes_23001              23001
+#define FontAttributes_23002              23002
+#define LineAttributes_24000              24000

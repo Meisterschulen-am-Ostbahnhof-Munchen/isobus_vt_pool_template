@@ -6,9 +6,19 @@
 				<Object Class="CFontStyle" JVS-ID="23001" ObjectName="FontAttributes_23001"/>
 			</Objects>
 		</Object>
+		<Object Class="COutputNumber">
+			<Objects>
+				<Object Class="CFontStyle" JVS-ID="23002" ObjectName="FontAttributes_23002"/>
+			</Objects>
+		</Object>
 		<Object Class="COutputText">
 			<Objects>
 				<Object Class="CFontStyle" JVS-ID="23000" ObjectName="FontAttributes_23000"/>
+			</Objects>
+		</Object>
+		<Object Class="GraphicObject">
+			<Objects>
+				<Object Class="CLineStyle" JVS-ID="24000" ObjectName="LineAttributes_24000"/>
 			</Objects>
 		</Object>
 	</Objects>
