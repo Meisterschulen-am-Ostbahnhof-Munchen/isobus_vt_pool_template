@@ -50,8 +50,10 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset_Id[] = {
 	  1063,  // OutputNumber_12001_Offset
 	  1092,  // Line_13000_Offset
 	  1103,  // Line_13001_Offset
-	  1114,  // FontAttributes_23000_Offset
-	  1122,  // FontAttributes_23001_Offset
-	  1130,  // FontAttributes_23002_Offset
-	  1138,  // LineAttributes_24000_Offset
+	  1114,  // Logos_Large_Icons_icon_20000_Offset
+	  1643,  // FontAttributes_23000_Offset
+	  1651,  // FontAttributes_23001_Offset
+	  1659,  // FontAttributes_23002_Offset
+	  1667,  // LineAttributes_24000_Offset
+	  1675,  // AuxFunction2_31000_Offset
 };  // isoOP_DefaultPool_Offset_Id
