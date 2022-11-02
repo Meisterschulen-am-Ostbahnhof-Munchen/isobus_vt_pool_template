@@ -52,7 +52,9 @@
 #define OutputNumber_12001                12001
 #define Line_13000                        13000
 #define Line_13001                        13001
+#define Logos_Large_Icons_icon_20000      20000
 #define FontAttributes_23000              23000
 #define FontAttributes_23001              23001
 #define FontAttributes_23002              23002
 #define LineAttributes_24000              24000
+#define AuxFunction2_31000                31000

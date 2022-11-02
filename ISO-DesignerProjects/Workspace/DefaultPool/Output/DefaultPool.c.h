@@ -47,17 +47,19 @@
 #define OutputNumber_12001_Offset                            1063
 #define Line_13000_Offset                                    1092
 #define Line_13001_Offset                                    1103
-#define FontAttributes_23000_Offset                          1114
-#define FontAttributes_23001_Offset                          1122
-#define FontAttributes_23002_Offset                          1130
-#define LineAttributes_24000_Offset                          1138
+#define Logos_Large_Icons_icon_20000_Offset                  1114
+#define FontAttributes_23000_Offset                          1643
+#define FontAttributes_23001_Offset                          1651
+#define FontAttributes_23002_Offset                          1659
+#define LineAttributes_24000_Offset                          1667
+#define AuxFunction2_31000_Offset                            1675
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_DefaultPool_Size   1146
+#define ISO_OP_DefaultPool_Size   1687
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_DefaultPool[];
 
-#define ISO_OP_DefaultPool_ObjectNumber     50
+#define ISO_OP_DefaultPool_ObjectNumber     52
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset_Id[];
 #define ISO_OP_DefaultPool_Scale_Offset      1
