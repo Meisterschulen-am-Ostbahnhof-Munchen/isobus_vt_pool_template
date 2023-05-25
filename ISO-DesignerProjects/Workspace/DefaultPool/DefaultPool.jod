@@ -13,7 +13,7 @@
 		</Object>
 		<Object Class="COutputText">
 			<Objects>
-				<Object Class="CFontStyle" JVS-ID="23000" ObjectName="FontAttributes_23000"/>
+				<Object Class="CFontStyle" JVS-ID="23001" ObjectName="FontAttributes_23001"/>
 			</Objects>
 		</Object>
 		<Object Class="GraphicObject">

@@ -37,10 +37,10 @@
 					<Value>MS Shell Dlg</Value>
 				</Property>
 				<Property Name="Size">
-					<Value>12</Value>
+					<Value>6</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>16</Value>
+					<Value>8</Value>
 				</Property>
 				<Property Name="Color">
 					<Value>0</Value>
@@ -58,10 +58,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="PointWidth">
-					<Value>9</Value>
+					<Value>4</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>12</Value>
+					<Value>6</Value>
 				</Property>
 				<Property Name="Inverted">
 					<Value>0</Value>
@@ -3121,7 +3121,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11022" Pinned="FALSE" JVS-ID="11022">
@@ -3321,7 +3321,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11024" Pinned="FALSE" JVS-ID="11024">
@@ -3421,7 +3421,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11025" Pinned="FALSE" JVS-ID="11025">
@@ -3521,7 +3521,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11026" Pinned="FALSE" JVS-ID="11026">
@@ -3721,7 +3721,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11028" Pinned="FALSE" JVS-ID="11028">
@@ -3821,7 +3821,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11029" Pinned="FALSE" JVS-ID="11029">
@@ -3921,7 +3921,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11030" Pinned="FALSE" JVS-ID="11030">
@@ -4021,7 +4021,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11031" Pinned="FALSE" JVS-ID="11031">
@@ -4121,7 +4121,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11032" Pinned="FALSE" JVS-ID="11032">
@@ -4221,7 +4221,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11033" Pinned="FALSE" JVS-ID="11033">
@@ -4321,7 +4321,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11034" Pinned="FALSE" JVS-ID="11034">
@@ -4421,7 +4421,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11035" Pinned="FALSE" JVS-ID="11035">
@@ -4521,7 +4521,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11036" Pinned="FALSE" JVS-ID="11036">
@@ -4621,7 +4621,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11037" Pinned="FALSE" JVS-ID="11037">
@@ -4721,7 +4721,7 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23000"/>
+				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputNumber" Name="Text" ObjectName="OutputNumber_12000" Pinned="FALSE" JVS-ID="12000">
@@ -5952,6 +5952,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -5970,6 +5973,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6254,6 +6260,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -6272,6 +6281,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6313,6 +6325,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6443,6 +6458,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -6461,6 +6479,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6481,6 +6502,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -6499,6 +6523,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6519,6 +6546,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -6537,6 +6567,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6557,6 +6590,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -6575,6 +6611,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
@@ -6595,6 +6634,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
 				</Property>
@@ -6613,6 +6655,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(40.0000000000000000)</Value>
