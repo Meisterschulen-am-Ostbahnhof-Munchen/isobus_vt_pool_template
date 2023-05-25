@@ -43,23 +43,55 @@
 #define OutputString_11018_Offset                             935
 #define OutputString_11019_Offset                             964
 #define OutputString_11020_Offset                             999
-#define OutputNumber_12000_Offset                            1034
-#define OutputNumber_12001_Offset                            1063
-#define Line_13000_Offset                                    1092
-#define Line_13001_Offset                                    1103
-#define Logos_Large_Icons_icon_20000_Offset                  1114
-#define FontAttributes_23000_Offset                          1643
-#define FontAttributes_23001_Offset                          1651
-#define FontAttributes_23002_Offset                          1659
-#define LineAttributes_24000_Offset                          1667
-#define AuxFunction2_31000_Offset                            1675
+#define OutputString_11021_Offset                            1034
+#define OutputString_11022_Offset                            1055
+#define OutputString_11023_Offset                            1076
+#define OutputString_11024_Offset                            1097
+#define OutputString_11025_Offset                            1118
+#define OutputString_11026_Offset                            1139
+#define OutputString_11027_Offset                            1160
+#define OutputString_11028_Offset                            1181
+#define OutputString_11029_Offset                            1202
+#define OutputString_11030_Offset                            1223
+#define OutputString_11031_Offset                            1244
+#define OutputString_11032_Offset                            1265
+#define OutputString_11033_Offset                            1286
+#define OutputString_11034_Offset                            1307
+#define OutputString_11035_Offset                            1328
+#define OutputString_11036_Offset                            1349
+#define OutputString_11037_Offset                            1370
+#define OutputNumber_12000_Offset                            1391
+#define OutputNumber_12001_Offset                            1420
+#define Line_13000_Offset                                    1449
+#define Line_13001_Offset                                    1460
+#define Logos_Large_Icons_icon_20000_Offset                  1471
+#define FontAttributes_23000_Offset                          2000
+#define FontAttributes_23001_Offset                          2008
+#define FontAttributes_23002_Offset                          2016
+#define LineAttributes_24000_Offset                          2024
+#define AuxFunction2_Type_00_Offset                          2032
+#define AuxFunction2_Type_01_Offset                          2044
+#define AuxFunction2_Type_02_Offset                          2056
+#define AuxFunction2_Type_03_Offset                          2068
+#define AuxFunction2_Type_04_Offset                          2080
+#define AuxFunction2_Type_05_Offset                          2092
+#define AuxFunction2_Type_06_Offset                          2104
+#define AuxFunction2_Type_07_Offset                          2116
+#define AuxFunction2_Type_08_Offset                          2128
+#define AuxFunction2_Type_09_Offset                          2140
+#define AuxFunction2_Type_10_Offset                          2152
+#define AuxFunction2_Type_11_Offset                          2164
+#define AuxFunction2_Type_12_Offset                          2176
+#define AuxFunction2_Type_13_Offset                          2188
+#define AuxFunction2_Type_14_Offset                          2200
+#define AuxFunction2_31015_Offset                            2212
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_DefaultPool_Size   1687
+#define ISO_OP_DefaultPool_Size   2224
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_DefaultPool[];
 
-#define ISO_OP_DefaultPool_ObjectNumber     52
+#define ISO_OP_DefaultPool_ObjectNumber     84
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset_Id[];
 #define ISO_OP_DefaultPool_Scale_Offset      1
