@@ -2824,11 +2824,11 @@
 				<Object JVS-ID="23000"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11019" Pinned="FALSE" JVS-ID="11019">
+		<Object Class="COutputText" Name="Text" ObjectName="OutputString_OutputNumber_N1" Pinned="FALSE" JVS-ID="11019">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
-						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAIAAxADIAMAAwADAAAAA=]]>
+						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAXwBOADEAAAA=]]>
 					</Value>
 				</Property>
 				<Property Name="ResourceID">
@@ -2875,7 +2875,7 @@
 				</Property>
 				<Property Name="Value">
 					<Value>
-						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAIAAxADIAMAAwADAAAAA=]]>
+						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAXwBOADEAAAA=]]>
 					</Value>
 				</Property>
 				<Property Name="StringLength">
@@ -2900,7 +2900,7 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>80</Value>
+					<Value>240</Value>
 				</Property>
 				<Property Name="Height">
 					<Value>20</Value>
@@ -2924,11 +2924,11 @@
 				<Object JVS-ID="23000"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11020" Pinned="FALSE" JVS-ID="11020">
+		<Object Class="COutputText" Name="Text" ObjectName="OutputString_OutputNumber_N2" Pinned="FALSE" JVS-ID="11020">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
-						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAIAAxADIAMAAwADEAAAA=]]>
+						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAXwBOADIAAAA=]]>
 					</Value>
 				</Property>
 				<Property Name="ResourceID">
@@ -2975,7 +2975,7 @@
 				</Property>
 				<Property Name="Value">
 					<Value>
-						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAIAAxADIAMAAwADEAAAA=]]>
+						<![CDATA[TwB1AHQAcAB1AHQATgB1AG0AYgBlAHIAXwBOADIAAAA=]]>
 					</Value>
 				</Property>
 				<Property Name="StringLength">
@@ -3000,7 +3000,7 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>80</Value>
+					<Value>240</Value>
 				</Property>
 				<Property Name="Height">
 					<Value>20</Value>
@@ -3024,7 +3024,7 @@
 				<Object JVS-ID="23000"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputNumber" Name="Text" ObjectName="OutputNumber_12000" Pinned="FALSE" JVS-ID="12000">
+		<Object Class="COutputNumber" Name="Text" ObjectName="OutputNumber_N1" Pinned="FALSE" JVS-ID="12000">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
@@ -3124,7 +3124,7 @@
 				<Object JVS-ID="23002"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputNumber" Name="Text" ObjectName="OutputNumber_12001" Pinned="FALSE" JVS-ID="12001">
+		<Object Class="COutputNumber" Name="Text" ObjectName="OutputNumber_N2" Pinned="FALSE" JVS-ID="12001">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
