@@ -3224,7 +3224,7 @@
 				<Object JVS-ID="23002"/>
 			</Objects>
 		</Object>
-		<Object Class="CLine" Name="Line" ObjectName="Line_13000" Pinned="FALSE" JVS-ID="13000">
+		<Object Class="CLine" Name="Line" ObjectName="Line_W" Pinned="FALSE" JVS-ID="13000">
 			<PropertySheet Name="Line">
 				<Property Name="Points">
 					<Value>(240,0)(0,1)</Value>
@@ -3257,7 +3257,7 @@
 				<Object JVS-ID="24000"/>
 			</Objects>
 		</Object>
-		<Object Class="CLine" Name="Line" ObjectName="Line_13001" Pinned="FALSE" JVS-ID="13001">
+		<Object Class="CLine" Name="Line" ObjectName="Line_S" Pinned="FALSE" JVS-ID="13001">
 			<PropertySheet Name="Line">
 				<Property Name="Points">
 					<Value>(0,0)(1,480)</Value>
@@ -3339,6 +3339,24 @@
 				<Property Name="Height">
 					<Value>64</Value>
 				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CPointer" Name="Pointer" ObjectName="ObjectPointer_P1" Pinned="FALSE" JVS-ID="27000">
+			<PropertySheet Name="Pointer">
 				<Property Name="Visible">
 					<Value>1</Value>
 				</Property>
