@@ -58,4 +58,4 @@
 #define FontAttributes_12x16              23002
 #define LineAttributes_black              24000
 #define ObjectPointer_P1                  27000
-#define AuxFunction2_31000                31000
+#define AuxFunction2_X1                   31000

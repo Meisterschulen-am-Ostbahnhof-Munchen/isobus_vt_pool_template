@@ -53,7 +53,7 @@
 #define FontAttributes_12x16_Offset                          1636
 #define LineAttributes_black_Offset                          1644
 #define ObjectPointer_P1_Offset                              1652
-#define AuxFunction2_31000_Offset                            1657
+#define AuxFunction2_X1_Offset                               1657
 
 #define ISO_OP_MEMORY_CLASS
 

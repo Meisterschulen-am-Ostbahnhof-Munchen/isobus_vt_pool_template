@@ -188,6 +188,6 @@ const unsigned char ISO_OP_MEMORY_CLASS isoOP_DefaultPool[] = {
 	ID(FontAttributes_12x16), TYPEID_FONTATTR, COLOR_BLACK, 3, 0, 0, 0, 
 	ID(LineAttributes_black), TYPEID_LINEATTR, COLOR_BLACK, 1, WORD(65535), 0, 
 	ID(ObjectPointer_P1), TYPEID_OBJPTR, ID(ID_NULL), 
-	ID(AuxFunction2_31000), TYPEID_AUXFUNC2, COLOR(45), 130, 1, 
+	ID(AuxFunction2_X1), TYPEID_AUXFUNC2, COLOR(45), 130, 1, 
 		XYREF(Logos_icon, 0, 0),
 }; // isoOP_DefaultPool

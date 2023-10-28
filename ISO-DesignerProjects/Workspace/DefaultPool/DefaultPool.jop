@@ -3373,7 +3373,7 @@
 				</Property>
 			</PropertySheet>
 		</Object>
-		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_31000" Pinned="TRUE" JVS-ID="31000">
+		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_X1" Pinned="TRUE" JVS-ID="31000">
 			<PropertySheet Name="AuxFunction">
 				<Property Name="BackColor">
 					<Value>16763904</Value>

@@ -56,5 +56,5 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset_Id[] = {
 	  1636,  // FontAttributes_12x16_Offset
 	  1644,  // LineAttributes_black_Offset
 	  1652,  // ObjectPointer_P1_Offset
-	  1657,  // AuxFunction2_31000_Offset
+	  1657,  // AuxFunction2_X1_Offset
 };  // isoOP_DefaultPool_Offset_Id
