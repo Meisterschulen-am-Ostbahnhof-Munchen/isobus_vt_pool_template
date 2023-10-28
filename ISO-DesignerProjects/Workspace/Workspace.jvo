@@ -13,7 +13,7 @@ ptn_Child1=ViewFrame-0
 DocPathName=.\DefaultPool\DataMask_M1.jvi
 WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAAJBAAAAAAGPEAAAAAANDAAAAA
 ActiveTab=0
-ViewScrollHoriz=80
+ViewScrollHoriz=0
 ViewScrollVert=0
 IsActiveChildFrame=True
 [5_6_2.ChildFrames.Document-1]
@@ -22,7 +22,7 @@ ptn_Child1=ViewFrame-0
 DocPathName=.\DefaultPool\DataMask_M2.jvi
 WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAAJBAAAAAAGPEAAAAAANDAAAAA
 ActiveTab=0
-ViewScrollHoriz=80
+ViewScrollHoriz=0
 ViewScrollVert=0
 IsActiveChildFrame=False
 [5_6_2.ChildFrames.Document-3]
@@ -31,6 +31,6 @@ ptn_Child1=ViewFrame-0
 DocPathName=.\DefaultPool\SoftKeyMask_S1.jvi
 WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAAJBAAAAAAGPEAAAAAANDAAAAA
 ActiveTab=0
-ViewScrollHoriz=80
+ViewScrollHoriz=0
 ViewScrollVert=0
 IsActiveChildFrame=False

@@ -6,6 +6,11 @@
 				<Object Class="CFontStyle" JVS-ID="23001" ObjectName="FontAttributes_8x12"/>
 			</Objects>
 		</Object>
+		<Object Class="CInputNumber">
+			<Objects>
+				<Object Class="CFontStyle" JVS-ID="23003" ObjectName="FontAttributes_23003"/>
+			</Objects>
+		</Object>
 		<Object Class="COutputNumber">
 			<Objects>
 				<Object Class="CFontStyle" JVS-ID="23002" ObjectName="FontAttributes_12x16"/>
