@@ -31,7 +31,7 @@
 				</Value>
 			</Property>
 		</Object>
-		<Object Class="CFontStyle" JVS-ID="23000" ObjectName="FontAttributes_23000" Pinned="FALSE">
+		<Object Class="CFontStyle" JVS-ID="23000" ObjectName="FontAttributes_6x8" Pinned="FALSE">
 			<PropertySheet Name="Font" ID="68816">
 				<Property Name="Name">
 					<Value>MS Shell Dlg</Value>
@@ -88,7 +88,7 @@
 				</Property>
 			</PropertySheet>
 		</Object>
-		<Object Class="CFontStyle" JVS-ID="23001" ObjectName="FontAttributes_23001" Pinned="FALSE">
+		<Object Class="CFontStyle" JVS-ID="23001" ObjectName="FontAttributes_8x12" Pinned="FALSE">
 			<PropertySheet Name="Font" ID="68816">
 				<Property Name="Name">
 					<Value>MS Shell Dlg</Value>
@@ -145,7 +145,7 @@
 				</Property>
 			</PropertySheet>
 		</Object>
-		<Object Class="CFontStyle" JVS-ID="23002" ObjectName="FontAttributes_23002" Pinned="FALSE">
+		<Object Class="CFontStyle" JVS-ID="23002" ObjectName="FontAttributes_12x16" Pinned="FALSE">
 			<PropertySheet Name="Font" ID="68816">
 				<Property Name="Name">
 					<Value>MS Shell Dlg</Value>
@@ -202,7 +202,7 @@
 				</Property>
 			</PropertySheet>
 		</Object>
-		<Object Class="CLineStyle" JVS-ID="24000" ObjectName="LineAttributes_24000" Pinned="FALSE">
+		<Object Class="CLineStyle" JVS-ID="24000" ObjectName="LineAttributes_black" Pinned="FALSE">
 			<PropertySheet Name="LineStyle" ID="68696">
 				<Property Name="Color">
 					<Value>0</Value>
@@ -277,7 +277,7 @@
 				</Property>
 			</PropertySheet>
 		</Object>
-		<Object Class="CGroup" Name="Group" ObjectName="Container_3000" Pinned="FALSE" JVS-ID="3000">
+		<Object Class="CGroup" Name="Group" ObjectName="Container_B" Pinned="FALSE" JVS-ID="3000">
 			<PropertySheet Name="Group">
 				<Property Name="Hidden">
 					<Value>0</Value>
@@ -924,11 +924,11 @@
 				<Object JVS-ID="4194327"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11000" Pinned="FALSE" JVS-ID="11000">
+		<Object Class="COutputText" Name="Text" ObjectName="OutputString_WorkingSet_0" Pinned="FALSE" JVS-ID="11000">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
-						<![CDATA[VwBvAHIAawBpAG4AZwBTAGUAdAAgADAAAAA=]]>
+						<![CDATA[VwBvAHIAawBpAG4AZwBTAGUAdABfADAAAAA=]]>
 					</Value>
 				</Property>
 				<Property Name="ResourceID">
@@ -975,7 +975,7 @@
 				</Property>
 				<Property Name="Value">
 					<Value>
-						<![CDATA[VwBvAHIAawBpAG4AZwBTAGUAdAAgADAAAAA=]]>
+						<![CDATA[VwBvAHIAawBpAG4AZwBTAGUAdABfADAAAAA=]]>
 					</Value>
 				</Property>
 				<Property Name="StringLength">
@@ -2624,7 +2624,7 @@
 				<Object JVS-ID="23001"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11017" Pinned="FALSE" JVS-ID="11017">
+		<Object Class="COutputText" Name="Text" ObjectName="OutputString_Button_A1" Pinned="FALSE" JVS-ID="11017">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
@@ -2724,7 +2724,7 @@
 				<Object JVS-ID="23000"/>
 			</Objects>
 		</Object>
-		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11018" Pinned="FALSE" JVS-ID="11018">
+		<Object Class="COutputText" Name="Text" ObjectName="OutputString_Button_A2" Pinned="FALSE" JVS-ID="11018">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
 					<Value>
@@ -3290,7 +3290,7 @@
 				<Object JVS-ID="24000"/>
 			</Objects>
 		</Object>
-		<Object Class="CImage" Name="Image" ObjectName="Logos_Large_Icons_icon_20000" Pinned="FALSE" JVS-ID="20000">
+		<Object Class="CImage" Name="Image" ObjectName="Logos_icon" Pinned="FALSE" JVS-ID="20000">
 			<PropertySheet Name="Image">
 				<Property Name="Path">
 					<Value>
@@ -3373,7 +3373,7 @@
 				</Property>
 			</PropertySheet>
 		</Object>
-		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_31000" Pinned="FALSE" JVS-ID="31000">
+		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_31000" Pinned="TRUE" JVS-ID="31000">
 			<PropertySheet Name="AuxFunction">
 				<Property Name="BackColor">
 					<Value>16763904</Value>

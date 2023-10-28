@@ -6,7 +6,7 @@
 #define Macro_Go_To_DataMask_M2_Offset                         34
 #define DataMask_M1_Offset                                     47
 #define DataMask_M2_Offset                                    133
-#define Container_3000_Offset                                 153
+#define Container_B_Offset                                    153
 #define SoftKeyMask_4000_Offset                               175
 #define SoftKey_F1_Offset                                     205
 #define SoftKey_F2_Offset                                     218
@@ -22,7 +22,7 @@
 #define SoftKey_F12_Offset                                    348
 #define Button_A1_Offset                                      361
 #define Button_A2_Offset                                      388
-#define OutputString_11000_Offset                             415
+#define OutputString_WorkingSet_0_Offset                      415
 #define OutputString_SoftKey_F1_Offset                        444
 #define OutputString_SoftKey_F2_Offset                        471
 #define OutputString_SoftKey_F3_Offset                        498
@@ -39,19 +39,19 @@
 #define OutputString_DataMask_M2_Offset                       799
 #define OutputString_Go_To_DataMask_M1_Offset                 827
 #define OutputString_Go_To_DataMask_M2_Offset                 861
-#define OutputString_11017_Offset                             895
-#define OutputString_11018_Offset                             921
+#define OutputString_Button_A1_Offset                         895
+#define OutputString_Button_A2_Offset                         921
 #define OutputString_OutputNumber_N1_Offset                   947
 #define OutputString_OutputNumber_N2_Offset                   979
 #define OutputNumber_N1_Offset                               1011
 #define OutputNumber_N2_Offset                               1040
 #define Line_W_Offset                                        1069
 #define Line_S_Offset                                        1080
-#define Logos_Large_Icons_icon_20000_Offset                  1091
-#define FontAttributes_23000_Offset                          1620
-#define FontAttributes_23001_Offset                          1628
-#define FontAttributes_23002_Offset                          1636
-#define LineAttributes_24000_Offset                          1644
+#define Logos_icon_Offset                                    1091
+#define FontAttributes_6x8_Offset                            1620
+#define FontAttributes_8x12_Offset                           1628
+#define FontAttributes_12x16_Offset                          1636
+#define LineAttributes_black_Offset                          1644
 #define ObjectPointer_P1_Offset                              1652
 #define AuxFunction2_31000_Offset                            1657
 

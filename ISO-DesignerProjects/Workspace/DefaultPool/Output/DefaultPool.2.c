@@ -9,7 +9,7 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset[] = {
 	    34,  // Macro_Go_To_DataMask_M2_Offset
 	    47,  // DataMask_M1_Offset
 	   133,  // DataMask_M2_Offset
-	   153,  // Container_3000_Offset
+	   153,  // Container_B_Offset
 	   175,  // SoftKeyMask_4000_Offset
 	   205,  // SoftKey_F1_Offset
 	   218,  // SoftKey_F2_Offset
@@ -25,7 +25,7 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset[] = {
 	   348,  // SoftKey_F12_Offset
 	   361,  // Button_A1_Offset
 	   388,  // Button_A2_Offset
-	   415,  // OutputString_11000_Offset
+	   415,  // OutputString_WorkingSet_0_Offset
 	   444,  // OutputString_SoftKey_F1_Offset
 	   471,  // OutputString_SoftKey_F2_Offset
 	   498,  // OutputString_SoftKey_F3_Offset
@@ -42,19 +42,19 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset[] = {
 	   799,  // OutputString_DataMask_M2_Offset
 	   827,  // OutputString_Go_To_DataMask_M1_Offset
 	   861,  // OutputString_Go_To_DataMask_M2_Offset
-	   895,  // OutputString_11017_Offset
-	   921,  // OutputString_11018_Offset
+	   895,  // OutputString_Button_A1_Offset
+	   921,  // OutputString_Button_A2_Offset
 	   947,  // OutputString_OutputNumber_N1_Offset
 	   979,  // OutputString_OutputNumber_N2_Offset
 	  1011,  // OutputNumber_N1_Offset
 	  1040,  // OutputNumber_N2_Offset
 	  1069,  // Line_W_Offset
 	  1080,  // Line_S_Offset
-	  1091,  // Logos_Large_Icons_icon_20000_Offset
-	  1620,  // FontAttributes_23000_Offset
-	  1628,  // FontAttributes_23001_Offset
-	  1636,  // FontAttributes_23002_Offset
-	  1644,  // LineAttributes_24000_Offset
+	  1091,  // Logos_icon_Offset
+	  1620,  // FontAttributes_6x8_Offset
+	  1628,  // FontAttributes_8x12_Offset
+	  1636,  // FontAttributes_12x16_Offset
+	  1644,  // LineAttributes_black_Offset
 	  1652,  // ObjectPointer_P1_Offset
 	  1657,  // AuxFunction2_31000_Offset
 };  // isoOP_DefaultPool_Offset
