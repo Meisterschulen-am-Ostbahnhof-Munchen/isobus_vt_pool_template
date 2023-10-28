@@ -311,13 +311,13 @@
 				<Object JVS-ID="4194325"/>
 			</Objects>
 		</Object>
-		<Object Class="CSoftKeyMask" Name="" ObjectName="SoftKeyMask_4000" Pinned="FALSE" JVS-ID="4000" JVS-RefCount="1">
+		<Object Class="CSoftKeyMask" Name="" ObjectName="SoftKeyMask_S1" Pinned="FALSE" JVS-ID="4000" JVS-RefCount="1">
 			<PropertySheet Name="Model">
 				<Property Name="MaskType">
 					<Value>2</Value>
 				</Property>
 				<Property Name="Path">
-					<Value>.\SoftKeyMask_4000.jvi</Value>
+					<Value>.\SoftKeyMask_S1.jvi</Value>
 				</Property>
 				<Property Name="Comment">
 					<Value>

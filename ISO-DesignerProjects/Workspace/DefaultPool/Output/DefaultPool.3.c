@@ -10,7 +10,7 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset_Id[] = {
 	    47,  // DataMask_M1_Offset
 	   133,  // DataMask_M2_Offset
 	   153,  // Container_B_Offset
-	   175,  // SoftKeyMask_4000_Offset
+	   175,  // SoftKeyMask_S1_Offset
 	   205,  // SoftKey_F1_Offset
 	   218,  // SoftKey_F2_Offset
 	   231,  // SoftKey_F3_Offset

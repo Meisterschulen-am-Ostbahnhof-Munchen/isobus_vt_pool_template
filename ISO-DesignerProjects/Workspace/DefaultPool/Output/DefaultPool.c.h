@@ -7,7 +7,7 @@
 #define DataMask_M1_Offset                                     47
 #define DataMask_M2_Offset                                    133
 #define Container_B_Offset                                    153
-#define SoftKeyMask_4000_Offset                               175
+#define SoftKeyMask_S1_Offset                                 175
 #define SoftKey_F1_Offset                                     205
 #define SoftKey_F2_Offset                                     218
 #define SoftKey_F3_Offset                                     231

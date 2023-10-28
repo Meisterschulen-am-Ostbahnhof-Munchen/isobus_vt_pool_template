@@ -12,7 +12,7 @@
 #define DataMask_M1                        1000
 #define DataMask_M2                        1001
 #define Container_B                        3000
-#define SoftKeyMask_4000                   4000
+#define SoftKeyMask_S1                     4000
 #define SoftKey_F1                         5000
 #define SoftKey_F2                         5001
 #define SoftKey_F3                         5002
